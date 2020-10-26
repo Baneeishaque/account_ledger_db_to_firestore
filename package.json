@@ -1,0 +1,14 @@
+{
+  "name": "cloud_firestore_demo",
+  "version": "1.0.0",
+  "description": "Demo project for Firebase Cloud Firestore",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.2.0",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@google-cloud/firestore": "^4.4.0"
+  }
+}
